@@ -2,7 +2,7 @@
 
 ## Description
 
-The README Generator is an app that generates a professional README.md from user input in the command prompt.
+The README Generator is an app that generates a professional README.md from user input in the command prompt. The sample README.md is under professionalREADME.md
 
 ## Installation
 
