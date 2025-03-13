@@ -12,7 +12,7 @@ Have the files downloaded onto your computer. When ready, go to the command prom
 
 The README-Generator is used for those who need a program to help create a ReadMe file for them. It's to help users create quick and easy readme files.  This app, will ask the necessary questions to gather the information for your professional README.md. 
 
-# https://drive.google.com/file/d/1qffRWVtHcqmowUnGpHWQMzULeDRhC5cG/view?usp=drive_link
+\n [https://drive.google.com/file/d/1qffRWVtHcqmowUnGpHWQMzULeDRhC5cG/view?usp=drive_link](https://drive.google.com/file/d/1qffRWVtHcqmowUnGpHWQMzULeDRhC5cG/view)
 
 ## Credits
 
